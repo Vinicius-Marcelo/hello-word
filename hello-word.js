@@ -1,1 +1,1 @@
-# hello-word
+console.log("Hello Word")
